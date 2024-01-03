@@ -27,7 +27,7 @@ Before using this project, make sure you have the following:
     ```bash
     git clone https://github.com/your-username/gmail-to-whatsapp-notifier.git
     cd gmail-to-whatsapp-notifier
-    cd backend
+    cd Backend
     ```
 
 2. Install dependencies:
