@@ -83,3 +83,8 @@ The application includes middleware to initialize the Twilio client. The middlew
 This project was created with ❤️ by Shivam Agarwal (www.shivamagarwal.co.in)
 
 Feel free to contribute or report issues.
+
+Some Initial Testing Examples :)
+![image](https://github.com/StillAbeginnerr/gmail-to-whatsapp-notifier/assets/88205668/8de8fcd7-3877-4574-b628-37692ac1fdbe)
+![Uploading image.png…]()
+
