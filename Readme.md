@@ -86,5 +86,6 @@ Feel free to contribute or report issues.
 
 Some Initial Testing Examples :)
 ![image](https://github.com/StillAbeginnerr/gmail-to-whatsapp-notifier/assets/88205668/8de8fcd7-3877-4574-b628-37692ac1fdbe)
-![Uploading image.png…]()
+![image](https://github.com/StillAbeginnerr/gmail-to-whatsapp-notifier/assets/88205668/f66a73c9-e99f-4c22-ae20-f86142f8a3a3)
+
 
